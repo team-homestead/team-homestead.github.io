@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+# Overview
 
-You can use the [editor on GitHub](https://github.com/team-homestead/team-homestead.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Description
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Homestead is a tool which facilitates access to community services for the homeless. It is also intended toinspire holistic self care, and self advocacy among those of the target population.
 
-### Markdown
+## Intended Users
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Homeless individuals and families (Cases)
+* Community service agencies (CSA)
+* Municipal Health and Human Services agencies
+* Emergency responders
+* Local philanthropy
 
-```markdown
-Syntax highlighted code block
+## Client-side functionality
 
-# Header 1
-## Header 2
-### Header 3
+* Case registration (individuals and families)
+* Agency registration 
+* Case designation of privacy choice and level of access agencies have to the case record
+* Emergency alert functionality - triggers case manager alert
+* Community Bulletin Board syncs all CSA outreach on one calendar
+* Map of shelters and service centers with icon dropdown of contact information, hours, and capacity alert
 
-- Bulleted
-- List
+## Functionality stretch goals
 
-1. Numbered
-2. List
+* Community service agency icons for direct connect to agency websites/built interactives forHOMESTEAD
+* App specific social media style updates sharing feedback regarding services received, changes in outreach schedules and more
+* Health/wellbeing education channel for direct health promotion
+* Texting/FaceTime/camera functionality
+* Case email
+* Case personal medical record
+* Case personal record of community service received
+* Case I.D. card with magnetic bar/chip for remote file access by service providers and GPS activated
+locator
+* Sync with crowdsource type service/faith-based service to allow for sponsorship of cases
 
-**Bold** and _Italic_ and `Code` text
+## Server/cloud-side functionality
 
-[Link](url) and ![Image](src)
-```
+* Cloud based system
+* Mobile, notepad, and desktop console connectivity
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## External services/data
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/team-homestead/team-homestead.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Municipal maps
+* Agency databases
+* GPS locator
