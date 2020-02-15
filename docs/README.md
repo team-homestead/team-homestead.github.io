@@ -3,14 +3,14 @@ Homestead is a tool which facilitates access to community services for the homel
 It is also intended to inspire holistic self care, and self advocacy among those of 
 the target population.  
 
-### [Team Ground Rules](ground-rules.md)  
+#### [Team Ground Rules](ground-rules.md)  
 
 
 ## Intended Users
 * Homeless individuals and families
 * Municipal Health and Human Services agencies
 
-[User Stories](user-stories.md)
+#### [User Stories](user-stories.md)
 
 
 ## External Services/Sources
@@ -19,4 +19,4 @@ the target population.
 * GPS locator
 
 
-### [Entity Relationship Diagram](erd.md)  
+#### [Entity Relationship Diagram](erd.md)  
