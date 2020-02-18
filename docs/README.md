@@ -11,10 +11,10 @@ the target population. A useful resource for all members of a community to come 
 
 
 ## External Services/Sources
-* Municipal maps 
+* [Municipal maps](https://www.cabq.gov/abq-data) 
 * Agency databases
-* GPS locator
-* Google calendar
+* [GPS locator](https://developers.google.com/maps/documentation/geolocation/intro)
+* [Google calendar](https://developers.google.com/calendar/v3/reference)
 
 ## Design Documentation
 
