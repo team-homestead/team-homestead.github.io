@@ -9,7 +9,7 @@ unity as givers of assistance can connect directly with those in need.
 ### Intended Users
 * Homeless individuals and families
 * Municipal Health and Human Services agencies
-## [User Stories](user-stories.md)
+# [User Stories](user-stories.md)
 
 
 
@@ -31,9 +31,9 @@ unity as givers of assistance can connect directly with those in need.
 
 
 ### Design Documentation
-## [Entity Relationship Diagram](erd.md)  
+# [Entity Relationship Diagram](erd.md)  
 
 
 
 ### Team Management
-## [Team Ground Rules](ground-rules.md)
+# [Team Ground Rules](ground-rules.md)
