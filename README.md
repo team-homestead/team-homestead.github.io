@@ -1,3 +1,5 @@
+blah blah blah
+
 # Project Description
 Homestead is a tool which facilitates access to community services for the homeless. 
 It is also intended to inspire holistic self care, and self advocacy among those of 
