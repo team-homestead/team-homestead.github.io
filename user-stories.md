@@ -1,13 +1,11 @@
 ## User Stories
 
-* I've been living on the streets for six years.  the worst part is having nothing to do but  
-  wander all day long. I've heard the HOMESTEAD site has a bulletin-board that features  
-  outreach events to homeless people.  I hope they have something for me.
+* As a homeless individual, I want to find a shelter nearby so that I can have a meal and a bed for
+ the night without having to go across town.
 
-* As the director of the state Health and Human Services Department, I need to make sure that  
-  access barriers to our agency resources are eliminated.  Our reach to the homeless is  
-  inconsistent.  The HOMESTEAD application puts or services in the hand of anyone with internet  
-  access.
+* As the director of the state Health and Human Services Department, I want to make sure that  
+  access barriers to our agency resources are eliminated so that individuals in our community can 
+  easily reach out to agencies for assistance.
 
  
 

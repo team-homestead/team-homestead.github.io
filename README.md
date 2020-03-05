@@ -3,15 +3,21 @@ Homestead is a tool which facilitates access to community services for the homel
 It is also intended to inspire holistic self care, and self advocacy among those of 
 the target population. Homestead is a resource with impact.  It promotes community  
 unity as givers of assistance can connect directly with those in need.
- 
 
+Our application will contain mappable resources and the types of assistance offered by the agencies. 
+Individuals will be able to search for an agency or browse through a list of agencies. 
+An agency will be able to update their availability for supplies or beds and update any contact information.
+ 
+---
 
 # Intended Users
 * Homeless individuals and families
 * Municipal Health and Human Services agencies
-### [User Stories](user-stories.md)
 
 
+* ### [User Stories](user-stories.md)
+
+---
 
 # External Services/Sources
 
@@ -28,16 +34,31 @@ unity as givers of assistance can connect directly with those in need.
 * Google Authorization
   [Google Auth](https://developers.google.com/identity)
 
-
+---
 
 # Design Documentation
+
 ### [Entity Relationship Diagram](erd.md) 
 
+### [Wireframe](wireframe.md)
+
 ### [Agency Entity](https://github.com/team-homestead/server/blob/master/src/main/java/edu/cnm/deepdive/server/model/entity/Agency.java) 
+
 ### [Individual Entity](https://github.com/team-homestead/server/blob/master/src/main/java/edu/cnm/deepdive/server/model/entity/Individual.java)
+
 ### [Service Entity](https://github.com/team-homestead/server/blob/master/src/main/java/edu/cnm/deepdive/server/model/entity/Service.java)
+
 ### [User Entity](https://github.com/team-homestead/server/blob/master/src/main/java/edu/cnm/deepdive/server/model/entity/User.java)
 
+### [Fl]
+
+---
 
 # Team Management
+
+## Team Roster
+* Archie Jaramillo
+* Asa Cade
+* Mariah Chavez-Graham
+
 ### [Team Ground Rules](ground-rules.md)
