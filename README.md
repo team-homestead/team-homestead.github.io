@@ -33,6 +33,8 @@ An agency will be able to update their availability for supplies or beds and upd
   
 * Google Authorization
   [Google Auth](https://developers.google.com/identity)
+  
+  /* TODO Add how sources will be used by app and will app function without to service*/
 
 ---
 
