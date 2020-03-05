@@ -98,9 +98,9 @@ An agency will be able to update their availability for supplies or beds and upd
 
 ## Team Roster
 
-* Archie Jaramillo
-* Asa Cade
-* Mariah Chavez-Graham
+* [Archie Jaramillo](archie.md)
+* [Asa Cade](asa.md)
+* [Mariah Chavez-Graham](mariah.md)
 
 
 ### [Team Ground Rules](ground-rules.md)
