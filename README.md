@@ -42,6 +42,10 @@ An agency will be able to update their availability for supplies or beds and upd
 
 ### [Wireframe](wireframe.md)
 
+---
+
+# Entity Classes
+
 ### [Agency Entity](https://github.com/team-homestead/server/blob/master/src/main/java/edu/cnm/deepdive/server/model/entity/Agency.java) 
 
 ### [Individual Entity](https://github.com/team-homestead/server/blob/master/src/main/java/edu/cnm/deepdive/server/model/entity/Individual.java)
@@ -50,15 +54,47 @@ An agency will be able to update their availability for supplies or beds and upd
 
 ### [User Entity](https://github.com/team-homestead/server/blob/master/src/main/java/edu/cnm/deepdive/server/model/entity/User.java)
 
-### [Fl]
+### [Flat Agency](https://github.com/team-homestead/server/blob/master/src/main/java/edu/cnm/deepdive/server/view/FlatAgency.java)
+
+### [Flat Individual](https://github.com/team-homestead/server/blob/master/src/main/java/edu/cnm/deepdive/server/view/FlatIndividual.java)
+
+### [Flat Service](https://github.com/team-homestead/server/blob/master/src/main/java/edu/cnm/deepdive/server/view/FlatService.java)
+
+### [Flat User](https://github.com/team-homestead/server/blob/master/src/main/java/edu/cnm/deepdive/server/view/FlatUser.java)
+
+---
+
+# Repository Interfaces
+
+### [Agency Repository](https://github.com/team-homestead/server/blob/master/src/main/java/edu/cnm/deepdive/server/service/AgencyRepository.java)
+
+### [Individual Repository](https://github.com/team-homestead/server/blob/master/src/main/java/edu/cnm/deepdive/server/service/IndividualRepository.java)
+
+### [Service Repository](https://github.com/team-homestead/server/blob/master/src/main/java/edu/cnm/deepdive/server/service/ServiceRepository.java)
+
+### [User Repository](https://github.com/team-homestead/server/blob/master/src/main/java/edu/cnm/deepdive/server/service/UserRepository.java)
+
+---
+
+# REST Controllers
+
+### [Agency Controller](https://github.com/team-homestead/server/blob/master/src/main/java/edu/cnm/deepdive/server/controller/rest/AgencyController.java)
+
+### [Individual Controller](https://github.com/team-homestead/server/blob/master/src/main/java/edu/cnm/deepdive/server/controller/rest/IndividualController.java)
+
+### [Service Controller](https://github.com/team-homestead/server/blob/master/src/main/java/edu/cnm/deepdive/server/controller/rest/ServiceController.java)
+
+### [User Controller](https://github.com/team-homestead/server/blob/master/src/main/java/edu/cnm/deepdive/server/controller/rest/UserController.java)
 
 ---
 
 # Team Management
 
 ## Team Roster
+
 * Archie Jaramillo
 * Asa Cade
 * Mariah Chavez-Graham
+
 
 ### [Team Ground Rules](ground-rules.md)
