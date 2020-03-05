@@ -56,6 +56,10 @@ An agency will be able to update their availability for supplies or beds and upd
 
 ### [User Entity](https://github.com/team-homestead/server/blob/master/src/main/java/edu/cnm/deepdive/server/model/entity/User.java)
 
+---
+
+# Flat interfaces
+
 ### [Flat Agency](https://github.com/team-homestead/server/blob/master/src/main/java/edu/cnm/deepdive/server/view/FlatAgency.java)
 
 ### [Flat Individual](https://github.com/team-homestead/server/blob/master/src/main/java/edu/cnm/deepdive/server/view/FlatIndividual.java)
