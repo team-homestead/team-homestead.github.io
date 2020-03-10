@@ -24,17 +24,17 @@ An agency will be able to update their availability for supplies or beds and upd
 * Calendar
   [Google calendar](https://developers.google.com/calendar/v3/reference)
   
-  The Google calendar will be able to share events from Homestead calendar to the users own google Calendar on their own device. The Calendar will still function without constant online service but events cannot be changed or added.
+  * The Google calendar will be able to share events from Homestead calendar to the users own google Calendar on their own device. The Calendar will still function without constant online service but events cannot be changed or added.
   
 * Weather Reports
   [Google Weather API](https://developers.google.com/android/reference/com/google/android/gms/awareness/state/Weather)
   
-  The Google weather will provide information to the users based on the location they have selected. The weather service will not work without access to external data since it cannot update with google on the current weather status.
+  * The Google weather will provide information to the users based on the location they have selected. The weather service will not work without access to external data since it cannot update with google on the current weather status.
   
 * Google Authorization
   [Google Auth](https://developers.google.com/identity)
 
-   The Google authorization will be optional to access the app's content and the app will be able to function without access to the Google sign in.
+   * The Google authorization will be optional to access the app's content and the app will be able to function without access to the Google sign in.
 ---
 
 # Design Documentation
