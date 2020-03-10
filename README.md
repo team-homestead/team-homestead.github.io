@@ -34,7 +34,7 @@ An agency will be able to update their availability for supplies or beds and upd
 * Google Authorization
   [Google Auth](https://developers.google.com/identity)
 
-  The Google authorization will be optional to access the app's content and the app will be able to function without access to the Google sign in.
+   The Google authorization will be optional to access the app's content and the app will be able to function without access to the Google sign in.
 ---
 
 # Design Documentation
