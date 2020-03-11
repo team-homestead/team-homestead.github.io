@@ -1,3 +1,16 @@
+# Team Management
+
+## Team Roster
+
+* [Archie Jaramillo](archie.md)
+* [Asa Cade](asa.md)
+* [Mariah Chavez-Graham](mariah.md)
+
+
+### [Team Ground Rules](ground-rules.md)
+
+ ---
+
 # Project Description
 Homestead is a tool which facilitates access to community services for the homeless. 
 It is also intended to inspire holistic self care, and self advocacy among those of 
@@ -98,15 +111,3 @@ An agency will be able to update their availability for supplies or beds and upd
 
 [DDL](ddl.md)
 
- ---
- 
-# Team Management
-
-## Team Roster
-
-* [Archie Jaramillo](archie.md)
-* [Asa Cade](asa.md)
-* [Mariah Chavez-Graham](mariah.md)
-
-
-### [Team Ground Rules](ground-rules.md)
