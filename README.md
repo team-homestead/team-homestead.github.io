@@ -94,6 +94,12 @@ An agency will be able to update their availability for supplies or beds and upd
 
 ---
 
+# DDL
+
+[DDL](ddl.md)
+
+ ---
+ 
 # Team Management
 
 ## Team Roster
