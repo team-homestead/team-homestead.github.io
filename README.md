@@ -1,3 +1,16 @@
+# Team Management
+
+## Team Roster
+
+* [Archie Jaramillo](archie.md)
+* [Asa Cade](asa.md)
+* [Mariah Chavez-Graham](mariah.md)
+
+
+### [Team Ground Rules](ground-rules.md)
+
+ ---
+
 # Project Description
 Homestead is a tool which facilitates access to community services for the homeless. 
 It is also intended to inspire holistic self care, and self advocacy among those of 
@@ -50,8 +63,6 @@ An agency will be able to update their availability for supplies or beds and upd
 
 ### [Agency Entity](https://github.com/team-homestead/server/blob/master/src/main/java/edu/cnm/deepdive/server/model/entity/Agency.java) 
 
-### [Individual Entity](https://github.com/team-homestead/server/blob/master/src/main/java/edu/cnm/deepdive/server/model/entity/Individual.java)
-
 ### [Service Entity](https://github.com/team-homestead/server/blob/master/src/main/java/edu/cnm/deepdive/server/model/entity/Service.java)
 
 ### [User Entity](https://github.com/team-homestead/server/blob/master/src/main/java/edu/cnm/deepdive/server/model/entity/User.java)
@@ -61,8 +72,6 @@ An agency will be able to update their availability for supplies or beds and upd
 # Flat interfaces
 
 ### [Flat Agency](https://github.com/team-homestead/server/blob/master/src/main/java/edu/cnm/deepdive/server/view/FlatAgency.java)
-
-### [Flat Individual](https://github.com/team-homestead/server/blob/master/src/main/java/edu/cnm/deepdive/server/view/FlatIndividual.java)
 
 ### [Flat Service](https://github.com/team-homestead/server/blob/master/src/main/java/edu/cnm/deepdive/server/view/FlatService.java)
 
@@ -74,8 +83,6 @@ An agency will be able to update their availability for supplies or beds and upd
 
 ### [Agency Repository](https://github.com/team-homestead/server/blob/master/src/main/java/edu/cnm/deepdive/server/service/AgencyRepository.java)
 
-### [Individual Repository](https://github.com/team-homestead/server/blob/master/src/main/java/edu/cnm/deepdive/server/service/IndividualRepository.java)
-
 ### [Service Repository](https://github.com/team-homestead/server/blob/master/src/main/java/edu/cnm/deepdive/server/service/ServiceRepository.java)
 
 ### [User Repository](https://github.com/team-homestead/server/blob/master/src/main/java/edu/cnm/deepdive/server/service/UserRepository.java)
@@ -85,8 +92,6 @@ An agency will be able to update their availability for supplies or beds and upd
 # REST Controllers
 
 ### [Agency Controller](https://github.com/team-homestead/server/blob/master/src/main/java/edu/cnm/deepdive/server/controller/rest/AgencyController.java)
-
-### [Individual Controller](https://github.com/team-homestead/server/blob/master/src/main/java/edu/cnm/deepdive/server/controller/rest/IndividualController.java)
 
 ### [Service Controller](https://github.com/team-homestead/server/blob/master/src/main/java/edu/cnm/deepdive/server/controller/rest/ServiceController.java)
 
@@ -98,15 +103,3 @@ An agency will be able to update their availability for supplies or beds and upd
 
 [DDL](ddl.md)
 
- ---
- 
-# Team Management
-
-## Team Roster
-
-* [Archie Jaramillo](archie.md)
-* [Asa Cade](asa.md)
-* [Mariah Chavez-Graham](mariah.md)
-
-
-### [Team Ground Rules](ground-rules.md)
