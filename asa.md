@@ -2,6 +2,6 @@
 
 ## [Linked In](https://www.linkedin.com/in/asa-cade/)
 
-## [Personal Github Page]()
+## [Personal Github Page](https://github.com/JACFlyer/JACFlyer.github.io)
 
-## [Deepdive Personal Android Project](JACFlyer.github.io/april)
+## [Personal Android Project](https://jacflyer.github.io/Aprilv2/)
