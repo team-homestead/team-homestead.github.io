@@ -1,7 +1,7 @@
 # Archie Jaramillo
 
-## [Linked In]()
+## [Linked In](https://www.linkedin.com/in/archie-jaramillo/)
 
-## [Personal Github Page]()
+## [Personal Github Page](https://github.com/ajaramillo76/ajaramillo76.github.io)
 
-## [Deepdive Personal Android Project]()
+## [Deepdive Personal Android Project](https://ajaramillo76.github.io/can-you-beat-rps-v2/)
