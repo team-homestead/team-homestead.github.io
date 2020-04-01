@@ -43,7 +43,7 @@ The future functionality will display categories of services on the Resources pa
 
 ## [Wireframe](wireframe.md)
 
-## Basic User Instructions
+## [Basic User Instructions](basic-user-instructions.md)
 
 
 
