@@ -91,7 +91,7 @@ An agency will be able to update their availability for supplies or beds and upd
 
 ## Javadocs Documentation
 * Client [Javadocs](https://team-homestead.github.io/client/api/overview-summary.html)
-* Server 
+* Server [Javadocs](https://team-homestead.github.io/server/api/) 
 
 
 ## Build Instructions
