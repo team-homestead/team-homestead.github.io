@@ -1,3 +1,3 @@
 Wireframe Diagram
 ---
-[![Wireframe Diagram](homestead.png)](homestead.pdf)
+[![Wireframe Diagram](Homestead (3) (1).png)](Homestead (3) (1).pdf)
