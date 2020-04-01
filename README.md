@@ -33,7 +33,9 @@ consumers can favorite an agency or event.
 
 
 ## Summary of Current State of the Project
-The application as it currently stands can navigate between pages, display a list of favorite Agencies, a list of all Agencies, display the Agency information, and add or remove favorites by clicking the heart icon then updating the favorites list. The information displayed for the Agency is only what has been manually put into the database.
+The application as it currently stands can navigate between pages, a list of all Agencies, display the Agency information, and add or remove favorites by clicking the heart icon then updating the favorites list. The information displayed for the Agency is only what has been manually put into the database.
+
+The current bug that crashes the application is the Agency page which is intended to display a list of favorite Agencies. 
 
 The future functionality will display categories of services on the Resources page and each category will list the Agencies that offer a specific service. Agencies will be allowed to add, edit, or remove their information shown and post updates of services available to the users. Any events should be able to share to the user's personal calendar, the Agency address should be linkable to the maps application, and the Agency phone number should pull up the phone functionality. There will be a Weather api to pull current, local weather forcasts. 
 
