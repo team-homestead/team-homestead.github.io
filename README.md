@@ -1,30 +1,31 @@
 #  Project Overview
 
 ## Team Roster
-
-Back-End Developer
-[Archie Jaramillo](archie.md)
-
-Project Lead, and Back-End Developer
+### Project Lead, and Back-End Developer
 [J. Asa Cade](asa.md)
 
-Front-End Developer
+### Front-End Developer
 [Mariah Chavez-Graham](mariah.md)
+
+### Back-End Developer
+[Archie Jaramillo](archie.md)
 
 
 
 ## Project Description
-Homestead is a tool which facilitates access to community services for the homeless. 
-It is also intended to inspire holistic self care, and self advocacy among those of 
-the target population. Homestead is a resource with impact.  It promotes community  
-unity as givers of assistance can connect directly with those in need.
+Homestead is a powerful tool that facilitates access to community services for the homeless. 
+It promotes holistic self care, and self advocacy among those of the target population 
+while creating a platform for service providers to present the care they offer.
+In fostering this community unity, Homestead proves itself a resource with impact.
 
-Our application will contain mappable resources and the types of assistance offered by the agencies. 
-Individuals will be able to search for an agency or browse through a list of agencies. 
-An agency will be able to update their availability for supplies or beds and update any contact information.
+The application allows consumers to search for local agencies or browse through a list of local 
+agencies and their respective services offered.  An agency is able to update its list of available 
+supplies, upcoming events and bed capacity.  Consumers are able to review agency listings in 
+real-time, and map the shortest distance to what they need.  With every service experience, 
+consumers can favorite an agency or event.
 
 
- 
+
 ## Intended Users
 * Homeless individuals and families
 * Municipal Health and Human Services agencies
@@ -90,8 +91,8 @@ An agency will be able to update their availability for supplies or beds and upd
 
 
 ## Javadocs Documentation
-* Client [Javadocs](https://team-homestead.github.io/client/api/overview-summary.html)
-* Server [Javadocs](https://team-homestead.github.io/server/api/) 
+[Client Javadocs](https://team-homestead.github.io/client/api/overview-summary.html)
+[Server Javadocs](https://team-homestead.github.io/server/api/) 
 
 
 ## Build Instructions
@@ -99,6 +100,6 @@ An agency will be able to update their availability for supplies or beds and upd
 
 
 ## Copyrights & Licenses
-
+[Legal Notices](notice.md)
 
 
