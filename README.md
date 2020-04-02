@@ -2,13 +2,13 @@
 
 ## Team Roster
 ### Project Lead, and Back-End Developer
-###[J. Asa Cade](asa.md)
+[J. Asa Cade](asa.md)
 
 ### Front-End Developer
-###[Mariah Chavez-Graham](mariah.md)
+[Mariah Chavez-Graham](mariah.md)
 
 ### Back-End Developer
-###[Archie Jaramillo](archie.md)
+[Archie Jaramillo](archie.md)
 
 
 
@@ -59,8 +59,8 @@ The future functionality will display categories of services on the Resources pa
 
 
 ## Javadocs Documentation
-[Client Javadocs](https://team-homestead.github.io/client/api/overview-summary.html)
-[Server Javadocs](https://team-homestead.github.io/server/api/) 
+* [Client Javadocs](https://team-homestead.github.io/client/api/overview-summary.html)
+* [Server Javadocs](https://team-homestead.github.io/server/api/) 
 
 
 
