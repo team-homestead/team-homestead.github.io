@@ -8,7 +8,7 @@
 
 4) Go back to your web browser and go to https://github.com/team-homestead/server and reapeat step 2 & 3.
 
-5) Open IntelliJ again.  On the opening page, click on 'Import from existing' (if you already had an IntelliJ project open, go to (File|New|Project from Existing Sources)).  Search for and click on the folder named 'server' and click 'Ok'.  A box will appear, import the project as a Maven project and click 'Finish'.
+5) Open IntelliJ again.  On the opening page, click on 'Import project' (if you already had an IntelliJ project open, go to (File|New|Project from Existing Sources)).  Search for and click on the folder named 'server' and click 'Ok'.  A box will appear, import the project as a Maven project and click 'Finish'.
 
 6) In the project window on the left hand side, expand (server|src|main|java|edu.cnm.deepdive.server) and double click on 'PreloadLauncher'.  Click on the green play icon on line 5, and click 'Run'.
 
