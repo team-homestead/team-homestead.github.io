@@ -2,13 +2,13 @@
 
 ## Team Roster
 ### Project Lead, and Back-End Developer
-[J. Asa Cade](asa.md)
+####[J. Asa Cade](asa.md)
 
 ### Front-End Developer
-[Mariah Chavez-Graham](mariah.md)
+####[Mariah Chavez-Graham](mariah.md)
 
 ### Back-End Developer
-[Archie Jaramillo](archie.md)
+####[Archie Jaramillo](archie.md)
 
 
 
@@ -40,70 +40,36 @@ The current bug that crashes the application is the Agency page which is intende
 The future functionality will display categories of services on the Resources page and each category will list the Agencies that offer a specific service. Agencies will be allowed to add, edit, or remove their information shown and post updates of services available to the users. Any events should be able to share to the user's personal calendar, the Agency address should be linkable to the maps application, and the Agency phone number should pull up the phone functionality. There will be a Weather api to pull current, local weather forcasts. 
 
 
+
 # Functional Documentation
 ## [User Stories](user-stories.md)
-
 ## [Wireframe](wireframe.md)
-
 ## [Basic User Instructions](basic-user-instructions.md)
 
 
 
 # Technical Documentation
 ## [Entity Relationship Diagram](erd.md)
- 
+## [Entity Classes](entity-classes.md)
+## [Flat interfaces](flat-interfaces.md)
+## [Repository Interfaces](repositories.md)
+## [REST Controllers](controllers.md)
+## [DDL](ddl.md)
 
-## Entity Classes
-
-### [Agency Entity](https://github.com/team-homestead/server/blob/master/src/main/java/edu/cnm/deepdive/server/model/entity/Agency.java) 
-
-### [Service Entity](https://github.com/team-homestead/server/blob/master/src/main/java/edu/cnm/deepdive/server/model/entity/Service.java)
-
-### [User Entity](https://github.com/team-homestead/server/blob/master/src/main/java/edu/cnm/deepdive/server/model/entity/User.java)
-
-
-## Flat interfaces
-
-### [Flat Agency](https://github.com/team-homestead/server/blob/master/src/main/java/edu/cnm/deepdive/server/view/FlatAgency.java)
-
-### [Flat Service](https://github.com/team-homestead/server/blob/master/src/main/java/edu/cnm/deepdive/server/view/FlatService.java)
-
-### [Flat User](https://github.com/team-homestead/server/blob/master/src/main/java/edu/cnm/deepdive/server/view/FlatUser.java)
-
-
-## Repository Interfaces
-
-### [Agency Repository](https://github.com/team-homestead/server/blob/master/src/main/java/edu/cnm/deepdive/server/service/AgencyRepository.java)
-
-### [Service Repository](https://github.com/team-homestead/server/blob/master/src/main/java/edu/cnm/deepdive/server/service/ServiceRepository.java)
-
-### [User Repository](https://github.com/team-homestead/server/blob/master/src/main/java/edu/cnm/deepdive/server/service/UserRepository.java)
-
-
-## REST Controllers
-
-### [Agency Controller](https://github.com/team-homestead/server/blob/master/src/main/java/edu/cnm/deepdive/server/controller/rest/AgencyController.java)
-
-### [Service Controller](https://github.com/team-homestead/server/blob/master/src/main/java/edu/cnm/deepdive/server/controller/rest/ServiceController.java)
-
-### [User Controller](https://github.com/team-homestead/server/blob/master/src/main/java/edu/cnm/deepdive/server/controller/rest/UserController.java)
-
-
-
-## DDL
-[DDL](ddl.md)
 
 
 ## Javadocs Documentation
-[Client Javadocs](https://team-homestead.github.io/client/api/overview-summary.html)
-[Server Javadocs](https://team-homestead.github.io/server/api/) 
+###[Client Javadocs](https://team-homestead.github.io/client/api/overview-summary.html)
+###[Server Javadocs](https://team-homestead.github.io/server/api/) 
+
 
 
 ## Build Instructions
-[Build Instructions](build-instructions.md)
+###[Build Instructions](build-instructions.md)
+
 
 
 ## Copyrights & Licenses
-[Legal Notices](notice.md)
+###[Legal Notices](notice.md)
 
 
