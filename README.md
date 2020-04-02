@@ -27,7 +27,7 @@ consumers can favorite an agency or event.
 
 
 ## Intended Users
-* Homeless individuals and families looking for Agencies or Resources that can help them to fulfill their needs.
+* Homeless individuals and families looking for Agencies or Resources that can help them to fulfill their basic needs.
 * Municipal Health and Human Services agencies that want to reach out to the homeless population about resources, services and events.
 
 
