@@ -16,4 +16,4 @@
 
 8) At the top of the window, go to 'File'->'New'->'Project from Existing Sources'.  Search for and open the folder named 'client' and click 'Ok'.  A box will appear, import the project as a Gradle project (NOT Android gradle) and click 'Finish'.  When prompted, open project in 'New window'.  Leave 'server' window open and running.
 
-9) At this point, open an emulator or connect a physical Android device.  At the top of the 'client' window, go to (Run|Run 'app').  The app will open on your device and is now ready for use.  See [Basic User Instructions](basic-user-instructions.md) if needed.  
+9) At this point, open an emulator or connect a physical Android device.  At the top of the 'client' window, go to 'Run'->'Run app'.  The app will open on your device and is now ready for use.  See [Basic User Instructions](basic-user-instructions.md) if needed.  
