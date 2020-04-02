@@ -27,8 +27,8 @@ consumers can favorite an agency or event.
 
 
 ## Intended Users
-* Homeless individuals and families
-* Municipal Health and Human Services agencies
+* Homeless individuals and families looking for Agencies or Resources that can help them to fulfill their needs.
+* Municipal Health and Human Services agencies that want to reach out to the homeless population about resources, services and events.
 
 
 
@@ -100,7 +100,7 @@ The future functionality will display categories of services on the Resources pa
 
 
 ## Build Instructions
-
+[Build Instructions](build-instructions.md)
 
 
 ## Copyrights & Licenses
