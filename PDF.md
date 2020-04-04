@@ -9,17 +9,13 @@
 ### [Linked In](https://www.linkedin.com/in/asa-cade/)
 ### [Personal Github Page](https://jacflyer.github.io/)
 ### [Personal Android Project](https://jacflyer.github.io/Aprilv2/)
-
-
-
+---
 ### Mariah Chavez-Graham
 ### Front-End Developer
 ### [Linked In](https://www.linkedin.com/in/mgraham21/)
 ### [Personal Github Page](https://mgraham21.github.io/)
 ### [Deepdive Personal Android Project](https://mgraham21.github.io/nursery-notes/)
-
-
-
+---
 ### Archie Jaramillo
 ### Back-End Developer
 ### [Linked In](https://www.linkedin.com/in/archie-jaramillo/)
