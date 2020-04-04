@@ -1,12 +1,15 @@
 # HOMESTEAD
 
+
+
 ## Team Roster
 
 ### J. Asa Cade
 ### Project Lead, and Back-End Developer
 ### [Linked In](https://www.linkedin.com/in/asa-cade/)
 ### [Personal Github Page](https://jacflyer.github.io/)
-### [Personal Android Project](https://jacflyer.github.io/Aprilv2/)(asa.md)
+### [Personal Android Project](https://jacflyer.github.io/Aprilv2/)
+
 
 
 ### Mariah Chavez-Graham
@@ -16,11 +19,14 @@
 ### [Deepdive Personal Android Project](https://mgraham21.github.io/nursery-notes/)
 
 
+
 ### Archie Jaramillo
 ### Back-End Developer
 ### [Linked In](https://www.linkedin.com/in/archie-jaramillo/)
 ### [Personal Github Page](https://ajaramillo76.github.io/)
 ### [Deepdive Personal Android Project](https://ajaramillo76.github.io/can-you-beat-rps-v2/)
+
+
 
 
 
