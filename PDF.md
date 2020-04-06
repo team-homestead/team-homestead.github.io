@@ -60,4 +60,3 @@ consumers can favorite an agency or event.
 * OKhttp3
 * Digital Ocean for server hosting
 * OAuth Google Sign-In
-* Spring security
